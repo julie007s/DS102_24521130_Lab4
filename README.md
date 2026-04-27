@@ -14,7 +14,7 @@ Dataset sử dụng: Chest X-Ray Images (Pneumonia) trên Kaggle.
 
 Link dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
-Do dataset có dung lượng lớn nên không đưa trực tiếp lên GitHub. Sau khi tải dataset, đặt thư mục theo cấu trúc:
+Cấu trúc dataset:
 
 ```text
 data/chest_xray/train/NORMAL
