@@ -1,4 +1,4 @@
-# LAB4 - SVM Chest X-Ray Classification
+# LAB3 - SVM Chest X-Ray Classification
 
 ## Mô tả bài tập
 
