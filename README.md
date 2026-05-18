@@ -210,8 +210,8 @@ python src/main.py
 ---
 
 # Author
-
-Ngân Nguyễn
+Nguyễn Thị Kim Ngân
+MSSV: 24521130
 
 ```
 
