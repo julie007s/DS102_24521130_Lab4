@@ -4,7 +4,7 @@ from sklearn.metrics import f1_score
 
 # ====================================
 # Entropy Function
-# ====================================
+
 
 def entropy(y):
 
@@ -28,7 +28,7 @@ def entropy(y):
 
 # ====================================
 # Tree Node
-# ====================================
+
 
 class Node:
 
@@ -54,7 +54,7 @@ class Node:
 
 # ====================================
 # Decision Tree Classifier
-# ====================================
+
 
 class DecisionTreeClassifier:
 
@@ -280,7 +280,7 @@ class DecisionTreeClassifier:
 
 # ====================================
 # Assignment 1 Runner
-# ====================================
+
 
 def run_assignment_1(
     X_train,
@@ -289,7 +289,7 @@ def run_assignment_1(
     y_test
 ):
 
-    print("\n========== ASSIGNMENT 1 ==========")
+    print("\n ASSIGNMENT 1 ")
 
     model = DecisionTreeClassifier(
         max_depth=12,

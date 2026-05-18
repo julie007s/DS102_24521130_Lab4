@@ -6,7 +6,7 @@ from decision_tree import DecisionTreeClassifier
 
 # ====================================
 # Random Forest Classifier
-# ====================================
+
 
 class RandomForestClassifier:
 
@@ -110,7 +110,7 @@ class RandomForestClassifier:
 
 # ====================================
 # Assignment 2 Runner
-# ====================================
+
 
 def run_assignment_2(
     X_train,
@@ -119,7 +119,7 @@ def run_assignment_2(
     y_test
 ):
 
-    print("\n========== ASSIGNMENT 2 ==========")
+    print("\n ASSIGNMENT 2 ")
 
     model = RandomForestClassifier(
         n_trees=15,

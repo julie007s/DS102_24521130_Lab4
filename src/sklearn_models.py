@@ -5,11 +5,11 @@ from sklearn.metrics import f1_score
 
 def run_assignment_3(X_train, X_test, y_train, y_test):
 
-    print("\n========== ASSIGNMENT 3 ==========")
+    print("\n ASSIGNMENT 3 ")
 
     # ====================================
     # Decision Tree using scikit-learn
-    # ====================================
+
 
     print("\nTraining Decision Tree...")
 
@@ -33,7 +33,7 @@ def run_assignment_3(X_train, X_test, y_train, y_test):
 
     # ====================================
     # Random Forest using scikit-learn
-    # ====================================
+
 
     print("\nTraining Random Forest...")
 
